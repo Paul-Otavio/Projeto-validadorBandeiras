@@ -1,5 +1,5 @@
 # Introdução ao Projeto: Validador de Bandeiras de Cartão de Crédito
-Este projeto é uma aplicação web simples que permite aos usuários validar números de cartões de crédito e identificar suas bandeiras (Visa, MasterCard, American Express, etc.). A aplicação é composta por um formulário onde o usuário pode inserir o número do cartão de crédito e, ao clicar no botão "Validar", a bandeira do cartão é exibida.
+Este projeto é uma aplicação web simples que permite aos usuários validar números de cartões de crédito e identificar suas bandeiras (Visa, MasterCard, American Express, etc.) criando para por em pratica o aprendizado adquirido durante o Bootcamp Microsoft AI for Tech - GitHub Copilot na plataforma DIO 
 
 ## Estrutura do Projeto
  * HTML (index.html): Estrutura básica da página, incluindo o formulário de entrada e o botão de validação.
